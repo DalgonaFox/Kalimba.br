@@ -7,7 +7,7 @@
 </p>
 
 Esse repositório contém uma Landing Page simples, desenvolvida para uma loja de Kalimbas (instrumento musical africano).
-> Você pode visualizar esse projeto no ar [aqui.](https://dalgonafox.github.io/websites/landingpage/kalimba/index.html)
+> Você pode visualizar esse projeto no ar [aqui.](https://kalimba-br.onrender.com)
 
 ## Funcionalidades
 - Design responsivo para dispositivos móveis;
